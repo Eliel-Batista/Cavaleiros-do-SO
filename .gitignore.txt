@@ -1,0 +1,17 @@
+# Gamemaker files to ignore
+*.backup.gmx
+*.backup.gm81
+*.gmx~
+*.gm81~
+*.localstorage
+*.options
+*.yydebug
+*.yymps
+*.yyprof
+*.yyprof.nfo
+
+# Compiled files to ignore
+*.exe
+*.dll
+*.lib
+*.pdb
