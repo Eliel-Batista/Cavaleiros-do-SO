@@ -18,10 +18,13 @@
   ],
   "ResourceOrderSettings": [
     {"name":"sTanenbaum","order":5,"path":"sprites/sTanenbaum/sTanenbaum.yy",},
+    {"name":"Object9","order":9,"path":"objects/Object9/Object9.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"sSilberschatz","order":6,"path":"sprites/sSilberschatz/sSilberschatz.yy",},
+    {"name":"Sprite7","order":7,"path":"sprites/Sprite7/Sprite7.yy",},
     {"name":"cRobinho_Pierre","order":2,"path":"objects/cRobinho_Pierre/cRobinho_Pierre.yy",},
     {"name":"Ataque3","order":5,"path":"objects/Ataque3/Ataque3.yy",},
+    {"name":"cTanenbaum","order":8,"path":"objects/cTanenbaum/cTanenbaum.yy",},
     {"name":"Sprite245","order":4,"path":"sprites/Sprite245/Sprite245.yy",},
     {"name":"Ataque2","order":4,"path":"objects/Ataque2/Ataque2.yy",},
     {"name":"cSilberschartz","order":7,"path":"objects/cSilberschartz/cSilberschartz.yy",},

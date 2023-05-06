@@ -12,4 +12,6 @@ enum phase{
 	lose
 }
 
-combatePhase = phane.init;
+combatPhase = phase.init;
+
+global.units = ds_list_create();
