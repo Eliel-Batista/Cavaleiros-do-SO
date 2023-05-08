@@ -9,8 +9,8 @@ if(pai.ordemAtaques[1] == ataqueVermelho) txt = "2º"
 if(pai.ordemAtaques[2] == ataqueVermelho) txt = "3º"
 
 draw_set_color(c_blue)
-if(instance_exists(cAtaqueTurno1) and txt= "1º") draw_set_color(c_red);
-if(instance_exists(cAtaqueTurno2) and txt= "2º") draw_set_color(c_red);
-if(instance_exists(cAtaqueTurno3) and txt= "3º") draw_set_color(c_red);
+if(instance_exists(cAtacando) and txt= "1º") if(cAtacando.ataqueIndice = 0) draw_set_color(c_red);
+if(instance_exists(cAtacando) and txt= "2º") if(cAtacando.ataqueIndice = 1) draw_set_color(c_red);
+if(instance_exists(cAtacando) and txt= "3º") if(cAtacando.ataqueIndice = 2) draw_set_color(c_red);
 	
 draw_text(x + 80,y,txt)
