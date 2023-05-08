@@ -7,12 +7,12 @@ if (cSilberschartz.ordemAtaques[2] != -1 and cTanenbaum.ordemAtaques[2] != -1 an
 }
 
 if (turnosDeAtaque == 0){
-	show_debug_message("Seu Jogo tá todo bugado")
+	show_message("Seu Jogo tá todo bugado, YOU LOSE")
 	restartDoGame()
 }
 
 if (vidaBoss <= 0){
-	show_debug_message("Consertou o Bug")
+	show_message("Consertou o Bug, BOAAA NATASHA")
 	restartDoGame()
 }
 

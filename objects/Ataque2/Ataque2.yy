@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite245",
-    "path": "sprites/Sprite245/Sprite245.yy",
+    "name": "sSupremaciaLinux",
+    "path": "sprites/sSupremaciaLinux/sSupremaciaLinux.yy",
   },
   "spriteMaskId": null,
   "visible": true,

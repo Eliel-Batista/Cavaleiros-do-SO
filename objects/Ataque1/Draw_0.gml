@@ -14,5 +14,7 @@ if(instance_exists(cAtacando) and txt= "2º") if(cAtacando.ataqueIndice = 1) dra
 if(instance_exists(cAtacando) and txt= "3º") if(cAtacando.ataqueIndice = 2) draw_set_color(c_red);
 
 	
+draw_set_color(c_white)
+draw_text(x + 65,y+20, "Meteoro de Threads")
 
 draw_text(x + 80,y,txt)

@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite7",
-    "path": "sprites/Sprite7/Sprite7.yy",
+    "name": "sBoss",
+    "path": "sprites/sBoss/sBoss.yy",
   },
   "spriteMaskId": null,
   "visible": true,

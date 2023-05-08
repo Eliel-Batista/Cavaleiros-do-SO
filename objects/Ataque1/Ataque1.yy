@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite2",
-    "path": "sprites/Sprite2/Sprite2.yy",
+    "name": "sMeteoroDeThreads",
+    "path": "sprites/sMeteoroDeThreads/sMeteoroDeThreads.yy",
   },
   "spriteMaskId": null,
   "visible": true,
