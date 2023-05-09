@@ -21,4 +21,4 @@ Quando o número de turnos de ataque chegar a 0, os jogadores perdem.
 
 Caso o boss morra, os jogadores ganham.
 
-Link para acessar o jogo: <a href=“http://bragiestudios.com/HTML5GAMES/Cavaleiros_do_SO_Build_HTML5/“>link</a>
+Link para acessar o jogo: [link](http://bragiestudios.com/HTML5GAMES/Cavaleiros_do_SO_Build_HTML5/)
