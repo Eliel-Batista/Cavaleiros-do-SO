@@ -54,6 +54,7 @@
     {"id":{"name":"cPC","path":"objects/cPC/cPC.yy",},},
     {"id":{"name":"cSilberschartz","path":"objects/cSilberschartz/cSilberschartz.yy",},},
     {"id":{"name":"Sprite24","path":"sprites/Sprite24/Sprite24.yy",},},
+    {"id":{"name":"mMusica","path":"sounds/mMusica/mMusica.yy",},},
     {"id":{"name":"Ataque1","path":"objects/Ataque1/Ataque1.yy",},},
   ],
   "RoomOrderNodes": [
