@@ -1,3 +1,2 @@
-/// @description Insert description here
-// You can write your code in this editor
-pressionado = false
+// Variável que define se o ataque foi selecionado
+pressionado = false 

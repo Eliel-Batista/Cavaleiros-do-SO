@@ -1,4 +1,3 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
+// Define a vida do boss
 globalvar vidaBoss; 
-vidaBoss = 10000
+vidaBoss = 1000

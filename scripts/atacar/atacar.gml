@@ -1,3 +1,6 @@
+
+/*É a função que contabiliza o dano total dado no Boss (Essa função está horrível porque 
+gastamos a maior parte do tempo aplicando os conceitos das threads e semaforo)*/
 function Dano(a) {
 	dano = 0
 	bonificacao = 0
@@ -53,19 +56,20 @@ function Dano(a) {
 		dano += 5
 		ataqueVermelhoEscolhido ++
 	}
-
+//Define a bonificação aplicada com base na quantidade de ataques que coincidem
 	if(ataqueVerdeEscolhido == 2 or ataqueAmareloEscolhido == 2 or ataqueVermelhoEscolhido == 2){
-		bonificacao = 20 
+		bonificacao = 30 
 	}
 
 	if(ataqueVerdeEscolhido == 3 or ataqueAmareloEscolhido == 3 or ataqueVermelhoEscolhido == 3){
-		bonificacao = 40 
+		bonificacao = 80 
 	}	
 
-	return dano + bonificacao
+	return dano + bonificacao // Retorna a quantidade de Dano
 		
 }
 
+//Função que aplica dano no Boss
 function atacar(a){	
 	vidaBoss -= Dano(a)
 }
